@@ -1,0 +1,17 @@
+{
+  "name": "fast-food-fast-api",
+  "version": "1.0.0",
+  "description": "'an API for a food ordering website'",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "author": "'Monday Victor'",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "express": "^4.16.3",
+    "mocha": "^5.2.0"
+  }
+}
